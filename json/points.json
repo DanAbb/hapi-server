@@ -1,0 +1,74 @@
+[
+  {
+    "Action": "Goal Scored",
+    "Points": 15
+  },
+  {
+    "Action": "Assist",
+    "Points": 7
+  },
+  {
+    "Action": "Shot on Target",
+    "Points": 5
+  },
+  {
+    "Action": "Chance Created",
+    "Points": 3
+  },
+  {
+    "Action": "Tackle",
+    "Points": 2
+  },
+  {
+    "Action": "Shot Blocked",
+    "Points": 2
+  },
+  {
+    "Action": "Interception",
+    "Points": 1.5
+  },
+  {
+    "Action": "Clearance",
+    "Points": 1
+  },
+  {
+    "Action": "Foul Drawn",
+    "Points": 0.5
+  },
+  {
+    "Action": "5 Successful Passes",
+    "Points": 0.25
+  },
+  {
+    "Action": "Yellow Card",
+    "Points": -1
+  },
+  {
+    "Action": "Own Goal",
+    "Points": -5
+  },
+  {
+    "Action": "Missed Penalty",
+    "Points": -5
+  },
+  {
+    "Action": "Red Card",
+    "Points": -5
+  },
+  {
+    "Action": "Clean Sheet",
+    "Points": 10
+  },
+  {
+    "Action": "Saved Penalty",
+    "Points": 6
+  },
+  {
+    "Action": "Save",
+    "Points": 3
+  },
+  {
+    "Action": "Goal Conceded",
+    "Points": -1
+  }
+]
